@@ -18,4 +18,4 @@ Open Spotify and play a song.
 Run spotify_now_playing.py to see the widget.
 Drag to reposition, and it will stay on top!
 
-here a youtube video shows you how to get your spotify api :https://www.youtube.com/watch?v=0fhkkkRuUxw
+here a youtube video shows you how to get your spotify api : https://www.youtube.com/watch?v=0fhkkkRuUxw
